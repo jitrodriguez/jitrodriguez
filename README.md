@@ -7,6 +7,7 @@
 
 
 Click here to see my website - > [https://juanrodriguez.netlify.app/](https://juanrodriguez.netlify.app/)
+This is my new Repository - [Click here to go to my old account](https://github.com/jitrodriguez)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
