@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Juan Rodriguez</h1>
 <h3 align="center">A passionate Full Stack Developer from Peru, willing to relocate</h3>
 
+
 - 🚀 I'm involved in the Launch X program from Microsoft
 - 🔭 I’m currently working on [Devsu](https://devsu.com/)
+
+
+Click here to see my website - > [https://juanrodriguez.netlify.app/](https://juanrodriguez.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
