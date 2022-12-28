@@ -4,10 +4,8 @@
 
 - 🚀 I'm involved in the Launch X program from Microsoft
 - 🔭 I’m currently working on [Devsu](https://devsu.com/)
-
-
-Click here to see my website - > [https://juanrodriguez.netlify.app/](https://juanrodriguez.netlify.app/)
-This is my new Repository - [Click here to go to my old account](https://github.com/jitrodriguez)
+- Click here to see my website - > [https://juanrodriguez.netlify.app/](https://juanrodriguez.netlify.app/)
+- This is my new Repository - [Click here to go to my old account](https://github.com/andre2329)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
